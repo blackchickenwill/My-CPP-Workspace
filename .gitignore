@@ -1,2 +1,25 @@
-cmake-build-debug/
+# IDE specific files
 .idea/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+build/
+cmake-build-debug/
+cmake-build-release/
+out/
+
+# Other
+*.VC.db
+*.VC.opendb
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
