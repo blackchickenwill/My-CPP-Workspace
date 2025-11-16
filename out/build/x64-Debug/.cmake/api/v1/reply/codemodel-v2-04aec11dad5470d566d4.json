@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "My_CPP_Workspace",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LeetCode_BinaryTree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LeetCode_BinaryTree-Debug-a13f87bfeb5edda74a54.json",
+					"name" : "LeetCode_BinaryTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OJ_DataTypeConversion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OJ_DataTypeConversion-Debug-904b8dc6a0c013c6a205.json",
+					"name" : "OJ_DataTypeConversion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OJ_Main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OJ_Main-Debug-fc5639fa5570a22d8627.json",
+					"name" : "OJ_Main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OJ_Operation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OJ_Operation-Debug-a75d5d8257f201e90643.json",
+					"name" : "OJ_Operation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OJ_PatientQueue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OJ_PatientQueue-Debug-3afe45aa34f1b782d212.json",
+					"name" : "OJ_PatientQueue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OJ_RedAndBlack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OJ_RedAndBlack-Debug-586aace1cd1135bb4a76.json",
+					"name" : "OJ_RedAndBlack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OJ_Sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OJ_Sort-Debug-140fdef36d8b3983ca91.json",
+					"name" : "OJ_Sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OJ_TilePasting::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OJ_TilePasting-Debug-32ebe39ad1fe073d6645.json",
+					"name" : "OJ_TilePasting",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OJ_Zhuxun::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OJ_Zhuxun-Debug-a88531e182817d36863d.json",
+					"name" : "OJ_Zhuxun",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OJ_erchashu2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OJ_erchashu2-Debug-835d3a135bd8763a040f.json",
+					"name" : "OJ_erchashu2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/algorithm code/My-CPP-Workspace/out/build/x64-Debug",
+		"source" : "D:/algorithm code/My-CPP-Workspace"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

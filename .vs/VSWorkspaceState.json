@@ -1,0 +1,16 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\LeetCode",
+    "\\LeetCode\\二叉树与递归",
+    "\\ProgrammingGrid"
+  ],
+  "SelectedNode": "\\LeetCode\\二叉树与递归\\1.cpp",
+  "PreviewInSolutionExplorer": false
+}

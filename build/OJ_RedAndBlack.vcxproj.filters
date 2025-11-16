@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\algorithm code\My-CPP-Workspace\ProgrammingGrid\lxz_di_gui47\红与黑.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\algorithm code\My-CPP-Workspace\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{74CC7240-B01E-32B3-8899-B77294360D3A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -23,8 +23,8 @@ add_executable(OJ_DataTypeConversion ProgrammingGrid/Midterm2025/数据类型转
 add_executable(OJ_PatientQueue ProgrammingGrid/Midterm2025/病人排队.cpp)
 add_executable(OJ_Zhuxun ProgrammingGrid/Midterm2025/竹竿.cpp)
 add_executable(OJ_TilePasting ProgrammingGrid/Midterm2025/贴瓷砖.cpp)
-
-
+add_executable(OJ_erchashu2 ProgrammingGrid/lxz_di_gui47/二叉树.cpp)
+add_executable(OJ_RedAndBlack ProgrammingGrid/lxz_di_gui47/红与黑.cpp)
 # =====================================================
 # Section 3: 亚马逊棋大作业 (Amazon Chess Assignment)
 # =====================================================

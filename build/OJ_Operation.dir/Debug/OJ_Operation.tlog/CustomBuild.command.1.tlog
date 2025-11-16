@@ -1,0 +1,10 @@
+^D:\ALGORITHM CODE\MY-CPP-WORKSPACE\CMAKELISTS.TXT
+setlocal
+"D:\visual studio\main\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/algorithm code/My-CPP-Workspace" "-BD:/algorithm code/My-CPP-Workspace/build" --check-stamp-file "D:/algorithm code/My-CPP-Workspace/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

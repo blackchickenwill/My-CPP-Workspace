@@ -1,0 +1,10 @@
+^D:\ALGORITHM CODE\MY-CPP-WORKSPACE\BUILD\CMAKEFILES\C79ADA4ECE36DCB70CD8117A12C556C3\GENERATE.STAMP.RULE
+setlocal
+"D:\visual studio\main\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/algorithm code/My-CPP-Workspace" "-BD:/algorithm code/My-CPP-Workspace/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/algorithm code/My-CPP-Workspace/build/My_CPP_Workspace.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
